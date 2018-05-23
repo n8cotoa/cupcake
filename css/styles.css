@@ -1,3 +1,8 @@
+* {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 5px;
+}
 .flashy {
   color: red;
   font-style: italic;
@@ -6,4 +11,28 @@
   text-align: center;
   text-decoration: underline;
   text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  color: crimson;
+  font-style: italic;
+  text-align: center;
+  padding-top: 20px;
+}
+
+p.intro {
+  font-style: bold;
+  color: gray;
+}
+
+img.intro {
+  max-width: 500px;
+}
+
+.container {
+  text-align: center;
 }
