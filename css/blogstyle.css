@@ -18,12 +18,17 @@
 .volunteer {
 
 }
+.cont {
+ width: 100%
+}
 
 .work {
+  max-width: 60%;
 
 }
 
 .school {
+  max-width: 39%;
 
 }
 
