@@ -3,6 +3,15 @@
   max-width: 600px;
   padding: 5px;
 }
+
+.border {
+  border: 1px solid black;
+}
+
+.highlighted {
+  background-color: orange;
+}
+
 .flashy {
   color: red;
   font-style: italic;
@@ -27,6 +36,10 @@ h2.intro {
 p.intro {
   font-style: bold;
   color: gray;
+}
+
+p {
+  line-height: 1.5rem;
 }
 
 img.intro {
